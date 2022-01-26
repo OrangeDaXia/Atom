@@ -1,0 +1,41 @@
+---
+layout: "post"
+title: "Xshell 中国风配色教程"
+date: "2022-01-26 17:54"
+---
+
+# Xshell7 中国风配色教程
+
+***
+
+## Xshell7 的安装
+进入Xshell官网下载[个人免费版](https://www.netsarang.com/en/free-for-home-school/)，下载链接会发送到你填写的邮箱里，速度有点慢，需要翻墙加速一下。
+## 字体的修改
+
+
+## 配色方案的配置
+
+配色方案的使用请参考[Xshell 一款很养眼的配色方案推荐](https://www.cnblogs.com/weifeng1463/p/8594319.html)配置，下载配色文件导入应用即可。
+
+我自己配色文件是在[Xshell 一款很养眼的配色方案推荐](https://www.cnblogs.com/weifeng1463/p/8594319.html)基础上修改的，简单的修改了一下字体的颜色。
+
+
+
+## 突出显示集的配置
+
+使用正则表达式匹配文本内容，从而更改特定文本的颜色。不懂正则表达式的可以看看这个[菜鸟教程-正则表达式](https://www.runoob.com/regexp/regexp-tutorial.html)
+
+
+正则表达式  | 颜色  | 说明  | 备用  
+--|---|---|--
+  |   |   |  
+  |   |   |  
+
+## 按键对应的配置
+
+进行一些简单快捷键配置，自己用Ubuntu用习惯了，就按照Ubuntu的快捷键配置Xshell，方便自己的使用，大家可以根据自己的习惯配置。
+
+快捷键           | 功能
+-----------------|-----
+Ctrl + Shift + C | 复制
+Ctrl + Shift + V | 粘贴
